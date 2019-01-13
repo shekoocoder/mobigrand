@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F3A1FE4D-3CF8-68CE-EA5E-2928EE8370AB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/iTS/Traffic System/GUIOptions.cs">
+    <Files>
+      <File FileName="Assets/DoozyUI/Scripts/UI/UIManager.cs" Line="5" Column="1" />
+      <File FileName="Assets/iTS/Simple Car Physics/Scripts/TSSimpleCar.cs" Line="318" Column="1" />
+      <File FileName="Assets/iTS/Simple Car Physics/Scripts/HudDisplay.cs" Line="71" Column="51" />
+      <File FileName="Assets/iTS/Traffic System/GUIOptions.cs" Line="26" Column="9" />
+      <File FileName="Assets/UHUDText/Content/Script/Core/bl_HUDText.cs" Line="364" Column="1" />
+      <File FileName="Assets/iTS/Traffic System/Scripts/Main/TSEventTriggerFollowPath.cs" Line="1" Column="1" />
+      <File FileName="Assets/iTS/Traffic System/Scripts/Main/TSRoadBlock.cs" Line="29" Column="18" />
+      <File FileName="Assets/iTS/Traffic System/Scripts/Main/TSTrafficLightGroupManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/iTS/Traffic System/Scripts/Main/TSTrafficLight.cs" Line="65" Column="32" />
+      <File FileName="Assets/ParkingCollect.cs" Line="22" Column="29" />
+      <File FileName="Assets/AccountManager.cs" Line="27" Column="6" />
+      <File FileName="Assets/SKY city lite/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader" Line="1" Column="1" />
+      <File FileName="Assets/WalletManager.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

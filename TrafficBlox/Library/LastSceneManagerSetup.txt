@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/iTS/Demo/Scene/City Test scaled.unity
+  isLoaded: 1
+  isActive: 1
